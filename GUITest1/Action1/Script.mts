@@ -2,5 +2,5 @@
 
 App_URL= "https://www.ultimatix.net"
 
-Call Func_LoginToApplications()	
+Call Func_LoginToApplication()	
 
